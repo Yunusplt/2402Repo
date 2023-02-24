@@ -4,4 +4,5 @@
 
 #Git Komutlari
 1. git init
---1.1 git add file name
+  1.1 git add file name
+  2.1 git ..
